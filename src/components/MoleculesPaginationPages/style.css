@@ -1,0 +1,14 @@
+.MOLECULES-PAGINATION-PAGES-div {
+  background-color: #ffffff;
+  height: 100%;
+  position: relative;
+  width: 100%;
+}
+
+.MOLECULES-PAGINATION-PAGES-pages {
+  height: 22px;
+  left: 57px;
+  position: absolute;
+  top: 9px;
+  width: 256px;
+}

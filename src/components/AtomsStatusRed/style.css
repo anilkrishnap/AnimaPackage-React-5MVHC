@@ -1,0 +1,14 @@
+.ATOMS-STATUS-RED-div {
+  background-color: #ffffff;
+  height: 100%;
+  width: 100%;
+}
+
+.ATOMS-STATUS-RED-rectangle {
+  background-color: #ed1c24;
+  height: 16px;
+  left: 11px;
+  position: relative;
+  top: 7px;
+  width: 8px;
+}

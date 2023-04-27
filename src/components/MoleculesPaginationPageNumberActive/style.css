@@ -1,0 +1,28 @@
+.MOLECULES-PAGINATION-PAGE-NUMBER-ACTIVE-div {
+  background-color: #ffffff;
+  height: 100%;
+  width: 100%;
+}
+
+.MOLECULES-PAGINATION-PAGE-NUMBER-ACTIVE-overlap-group {
+  background-color: #000000;
+  border-radius: 12px;
+  height: 24px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 24px;
+}
+
+.MOLECULES-PAGINATION-PAGE-NUMBER-ACTIVE-page-number {
+  color: #ffffff;
+  font-family: "Neue Haas Grotesk Display Std-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+}

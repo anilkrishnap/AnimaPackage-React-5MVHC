@@ -1,0 +1,37 @@
+.ATOMS-ICON-2019-notification-div {
+  height: 100%;
+  width: 100%;
+}
+
+.ATOMS-ICON-2019-notification-group {
+  height: 23px;
+  left: 1px;
+  position: relative;
+  width: 23px;
+}
+
+.ATOMS-ICON-2019-notification-ebene {
+  height: 23px;
+}
+
+.ATOMS-ICON-2019-notification-group-2 {
+  height: 23px;
+  position: relative;
+  width: 23px;
+}
+
+.ATOMS-ICON-2019-notification-shape {
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 23px;
+}
+
+.ATOMS-ICON-2019-notification-path {
+  height: 3px;
+  left: 9px;
+  position: absolute;
+  top: 20px;
+  width: 6px;
+}

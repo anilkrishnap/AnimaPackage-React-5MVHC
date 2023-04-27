@@ -1,0 +1,18 @@
+.MOLECULES-TABLE-ROW-DEFAULT-NEW-div {
+  background-color: #ffffff;
+  height: 100%;
+  width: 100%;
+}
+
+.MOLECULES-TABLE-ROW-DEFAULT-NEW-overlap-group {
+  background-color: #ffffff;
+  height: 31px;
+  width: 1004px;
+}
+
+.MOLECULES-TABLE-ROW-DEFAULT-NEW-ATOMS-DIVIDERS-LINE-BLACK {
+  background-color: #d8dada;
+  height: 1px;
+  position: relative;
+  top: 30px;
+}

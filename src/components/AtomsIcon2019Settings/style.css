@@ -1,0 +1,29 @@
+.ATOMS-ICON-2019-settings-div {
+  height: 100%;
+  width: 100%;
+}
+
+.ATOMS-ICON-2019-settings-group {
+  height: 23px;
+  width: 23px;
+}
+
+.ATOMS-ICON-2019-settings-ebene {
+  height: 23px;
+}
+
+.ATOMS-ICON-2019-settings-shape-wrapper {
+  background-image: url(../../../static/img/shape-38.png);
+  background-size: 100% 100%;
+  height: 23px;
+  position: relative;
+  width: 23px;
+}
+
+.ATOMS-ICON-2019-settings-shape {
+  height: 10px;
+  left: 7px;
+  position: absolute;
+  top: 7px;
+  width: 10px;
+}

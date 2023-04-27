@@ -1,0 +1,48 @@
+.ATOMS-ICON-2019-common-menu-div {
+  height: 100%;
+  width: 100%;
+}
+
+.ATOMS-ICON-2019-common-menu-group {
+  height: 19px;
+  position: relative;
+  top: 2px;
+  width: 24px;
+}
+
+.ATOMS-ICON-2019-common-menu-ebene {
+  height: 19px;
+}
+
+.ATOMS-ICON-2019-common-menu-group-2 {
+  height: 19px;
+  position: relative;
+  width: 24px;
+}
+
+.ATOMS-ICON-2019-common-menu-rectangle {
+  background-color: #000000;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.ATOMS-ICON-2019-common-menu-rectangle-2 {
+  background-color: #000000;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 18px;
+  width: 24px;
+}
+
+.ATOMS-ICON-2019-common-menu-rectangle-3 {
+  background-color: #000000;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 9px;
+  width: 24px;
+}

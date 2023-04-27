@@ -1,0 +1,57 @@
+.ATOMS-ICON-2019-trash-div {
+  height: 100%;
+  width: 100%;
+}
+
+.ATOMS-ICON-2019-trash-group {
+  height: 24px;
+  left: 3px;
+  position: relative;
+  width: 18px;
+}
+
+.ATOMS-ICON-2019-trash-ebene {
+  height: 24px;
+}
+
+.ATOMS-ICON-2019-trash-group-2 {
+  height: 24px;
+  position: relative;
+  width: 18px;
+}
+
+.ATOMS-ICON-2019-trash-overlap-group {
+  background-image: url(../../../static/img/shape-28.png);
+  background-size: 100% 100%;
+  height: 18px;
+  left: 2px;
+  position: absolute;
+  top: 6px;
+  width: 15px;
+}
+
+.ATOMS-ICON-2019-trash-rectangle {
+  background-color: #000000;
+  height: 9px;
+  left: 4px;
+  position: absolute;
+  top: 5px;
+  width: 1px;
+}
+
+.ATOMS-ICON-2019-trash-rectangle-2 {
+  background-color: #000000;
+  height: 9px;
+  left: 9px;
+  position: absolute;
+  top: 5px;
+  width: 1px;
+}
+
+.ATOMS-ICON-2019-trash-shape {
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}

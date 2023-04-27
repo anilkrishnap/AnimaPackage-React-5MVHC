@@ -1,0 +1,1 @@
+export { AtomsScrollbarVertical } from "./AtomsScrollbarVertical";

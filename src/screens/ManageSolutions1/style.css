@@ -1,0 +1,353 @@
+.manage-solutions-1-manage-solutions-wrapper {
+  background-color: #f7f9fb;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.manage-solutions-1-manage-solutions {
+  background-color: #f7f9fb;
+  border: 0px none;
+  height: 768px;
+  position: relative;
+  width: 1024px;
+}
+
+.manage-solutions-1-ORGANISMS-GLOBALHEADER-TAB-BAR {
+  background-color: #ffffff;
+  height: 89px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1024px;
+}
+
+.manage-solutions-1-overlap {
+  height: 89px;
+  position: relative;
+}
+
+.manage-solutions-1-ORGANISMS-GLOBALHEADER-DEFAULT {
+  background-color: #ffffff;
+  height: 60px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 1024px;
+}
+
+.manage-solutions-1-overlap-group2 {
+  background-color: #ffffff;
+  height: 62px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 1026px;
+}
+
+.manage-solutions-1-ATOMS-AVATAR-DEFAULT {
+  background-image: url(../../../static/img/combined-shape.png);
+  background-size: 100% 100%;
+  height: 24px;
+  left: 981px;
+  position: absolute;
+  top: 19px;
+  width: 24px;
+}
+
+.manage-solutions-1-canvaslogo-final {
+  height: 32px;
+  left: 65px;
+  position: absolute;
+  top: 11px;
+  width: 148px;
+}
+
+.manage-solutions-1-overlap-group1 {
+  height: 32px;
+  position: relative;
+}
+
+.manage-solutions-1-img {
+  height: 21px;
+  left: 130px;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.manage-solutions-1-group {
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 10px;
+  width: 130px;
+}
+
+.manage-solutions-1-path {
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 21px;
+}
+
+.manage-solutions-1-shape {
+  height: 22px;
+  left: 23px;
+  position: absolute;
+  top: 0;
+  width: 21px;
+}
+
+.manage-solutions-1-path-2 {
+  height: 21px;
+  left: 46px;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+
+.manage-solutions-1-overlap-group {
+  height: 22px;
+  left: 67px;
+  position: absolute;
+  top: 0;
+  width: 42px;
+}
+
+.manage-solutions-1-path-3 {
+  height: 21px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 22px;
+}
+
+.manage-solutions-1-shape-2 {
+  height: 22px;
+  left: 21px;
+  position: absolute;
+  top: 0;
+  width: 21px;
+}
+
+.manage-solutions-1-path-4 {
+  height: 22px;
+  left: 110px;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+
+.manage-solutions-1-download {
+  height: 28px;
+  left: 937px;
+  position: absolute;
+  top: 15px;
+  width: 24px;
+}
+
+.manage-solutions-1-ORGANISMS-TAB-BAR {
+  background-color: #ffffff;
+  height: 39px;
+  left: 0;
+  position: absolute;
+  top: 50px;
+  width: 1024px;
+}
+
+.manage-solutions-1-div {
+  background-color: #ffffff;
+  height: 41px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 1026px;
+}
+
+.manage-solutions-1-ATOMS-DIVIDERS-LINE-GRAY {
+  background-color: #d8dada;
+  height: 1px;
+  left: 11px;
+  position: absolute;
+  top: 29px;
+  width: 1004px;
+}
+
+.manage-solutions-1-ORGANISMS-DASHBOARD-TILE {
+  background-color: #ffffff;
+  height: 300px;
+  left: 10px;
+  position: absolute;
+  top: 99px;
+  width: 492px;
+}
+
+.manage-solutions-1-overlap-group8 {
+  height: 300px;
+  position: relative;
+}
+
+.manage-solutions-1-tile-title {
+  color: #000000;
+  font-family: "Neue Haas Grotesk Display Std-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: 22.8px;
+  position: absolute;
+  top: 20px;
+  white-space: nowrap;
+}
+
+.manage-solutions-1-ATOMS-BTNS-TEXT {
+  height: 17px;
+  left: 10px;
+  position: absolute;
+  top: 89px;
+  width: 54px;
+}
+
+.manage-solutions-1-overlap-group-2 {
+  height: 16px;
+  position: relative;
+  top: 1px;
+  width: 66px;
+}
+
+.manage-solutions-1-text-link {
+  color: #000000;
+  font-family: "Neue Haas Grotesk Display Std-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 15.2px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.manage-solutions-1-ATOMS-ICON-CTA-caret {
+  height: 12px;
+  left: 42px;
+  position: absolute;
+  top: 2px;
+  width: 12px;
+}
+
+.manage-solutions-1-ATOMS-BTNS-TEXT-copy {
+  height: 17px;
+  left: 246px;
+  position: absolute;
+  top: 89px;
+  width: 54px;
+}
+
+.manage-solutions-1-overlap-2 {
+  height: 16px;
+  position: relative;
+  top: 1px;
+  width: 91px;
+}
+
+.manage-solutions-1-ATOMS-ICON-export {
+  height: 24px;
+  left: 458px;
+  position: absolute;
+  top: 20px;
+  width: 24px;
+}
+
+.manage-solutions-1-ATOMS-BTNS-TEXT-h4-copy-2 {
+  height: 17px;
+  left: 10px;
+  position: absolute;
+  top: 163px;
+  width: 54px;
+}
+
+.manage-solutions-1-overlap-3 {
+  height: 16px;
+  position: relative;
+  top: 1px;
+  width: 116px;
+}
+
+.manage-solutions-1-ATOMS-BTNS-TEXT-h4-copy {
+  height: 17px;
+  left: 10px;
+  position: absolute;
+  top: 126px;
+  width: 54px;
+}
+
+.manage-solutions-1-overlap-group3 {
+  height: 16px;
+  position: relative;
+  top: 1px;
+  width: 121px;
+}
+
+.manage-solutions-1-h4-text-link {
+  color: #000000;
+  cursor: pointer;
+  font-family: "Neue Haas Grotesk Display Std-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 15.2px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.manage-solutions-1-ATOMS-BTNS-TEXT-h4-copy-6 {
+  height: 17px;
+  left: 246px;
+  position: absolute;
+  top: 126px;
+  width: 54px;
+}
+
+.manage-solutions-1-overlap-group4 {
+  height: 16px;
+  position: relative;
+  top: 1px;
+  width: 138px;
+}
+
+.manage-solutions-1-ATOMS-BTNS-TEXT-h4-copy-3 {
+  height: 17px;
+  left: 10px;
+  position: absolute;
+  top: 200px;
+  width: 54px;
+}
+
+.manage-solutions-1-overlap-group5 {
+  height: 16px;
+  position: relative;
+  top: 1px;
+  width: 112px;
+}
+
+.manage-solutions-1-ATOMS-BTNS-TEXT-h4-copy-8 {
+  height: 17px;
+  left: 10px;
+  position: absolute;
+  top: 237px;
+  width: 54px;
+}
+
+.manage-solutions-1-overlap-group6 {
+  height: 16px;
+  position: relative;
+  top: 1px;
+  width: 88px;
+}

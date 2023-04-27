@@ -1,0 +1,21 @@
+.ATOMS-SCROLLBAR-VERTICAL-div {
+  background-color: #ffffff;
+  height: 100%;
+  width: 100%;
+}
+
+.ATOMS-SCROLLBAR-VERTICAL-overlap-group {
+  background-color: #f6f6f6;
+  height: 196px;
+  width: 8px;
+}
+
+.ATOMS-SCROLLBAR-VERTICAL-rectangle {
+  background-color: #d8dada;
+  border-radius: 3px;
+  height: 44px;
+  left: 1px;
+  position: relative;
+  top: 1px;
+  width: 6px;
+}

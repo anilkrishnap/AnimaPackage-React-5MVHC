@@ -1,0 +1,1 @@
+export { MoleculesPaginationPrevNormal } from "./MoleculesPaginationPrevNormal";

@@ -1,0 +1,1 @@
+export { MoleculesTabPrimaryDefault } from "./MoleculesTabPrimaryDefault";

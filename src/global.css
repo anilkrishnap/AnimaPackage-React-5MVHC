@@ -1,0 +1,89 @@
+.manage-solutions-screen-search, .MOLECULES-INPUTS-SEARCH-DEFAULT-text-wrapper {
+    color: #747676;
+    height: 30px;
+    letter-spacing: 0;
+    white-space: nowrap;
+    width: 46px;
+    background-color: #0000;
+    border: 0;
+    padding: 0;
+    font-family: Neue Haas Grotesk Display Std-Regular, Helvetica;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 16.8px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 30px;
+    width:fit-content;
+    width: -webkit-fill-available;
+    width:-moz-available;
+    text-indent: 10px;
+    outline:0;
+    border: 0;
+}
+
+/* input:focus {
+    outline: none;
+    border: none;
+  } */
+
+  /* Remove the default styles for select dropdowns */
+select,input[type="checkbox"], input[type="radio"],input[type="text"] {
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    border: none;
+    background: none;
+    padding: 0;
+    margin: 0;
+    outline: none;
+    border: none;
+  }
+  
+  /* Remove the default styles for checkboxes and radio buttons */
+  /* input[type="checkbox"], input[type="radio"] {
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    border: none;
+    background: none;
+    padding: 0;
+    margin: 0;
+    outline: none;
+    border: none;
+  } */
+
+  .MuiDataGrid-root{border: 0 !important;}
+  .MuiDataGrid-root .MuiDataGrid-columnHeaderTitle {
+    /* overflow: hidden; */
+    font-weight: bold !important;
+    white-space: pre-wrap !important;
+    /* text-overflow: ellipsis; */
+    line-height: normal !important;
+}
+
+.MuiDataGrid-root .MuiDataGrid-columnHeader:hover .MuiDataGrid-menuIcon, .MuiDataGrid-root .MuiDataGrid-menuOpen {
+  visibility: hidden !important;
+}
+
+.MuiDataGrid-root .MuiDataGrid-columnHeaderTitleContainer {
+  padding: 0 !important;
+}
+
+.MuiDataGrid-root .MuiDataGrid-columnHeader--alignRight .MuiDataGrid-columnHeaderDraggableContainer, .MuiDataGrid-root .MuiDataGrid-columnHeader--alignRight .MuiDataGrid-columnHeaderTitleContainer {
+  flex-direction: row !important;
+}
+
+.custom-row-even,
+.custom-row-odd {
+  min-height: 40px !important;
+  max-height: 40px !important;
+}
+.MuiDataGrid-cell{min-height: 40px !important;max-height: 40px !important;line-height: 40px !important;}
+.MuiDataGrid-root .MuiDataGrid-columnHeader:focus, .MuiDataGrid-root .MuiDataGrid-cell:focus, 
+.MuiDataGrid-root .MuiDataGrid-columnHeader:focus-within, .MuiDataGrid-root .MuiDataGrid-cell:focus-within{
+  outline: none !important;
+}
+.MuiDataGrid-columnsContainer{max-height:56px !important; min-height: 40px !important; line-height:none !important;}
+.MuiDataGrid-root{top:15px;}

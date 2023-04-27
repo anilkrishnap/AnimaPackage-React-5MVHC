@@ -1,0 +1,18 @@
+.MOLECULES-TABLE-ACTIONICONTEXT-div {
+  height: 100%;
+  position: relative;
+  width: 100%;
+}
+
+.MOLECULES-TABLE-ACTIONICONTEXT-edit {
+  color: #000000;
+  font-family: "Neue Haas Grotesk Display Std-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 34px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+}

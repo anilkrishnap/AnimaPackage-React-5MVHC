@@ -1,0 +1,1 @@
+export { MoleculesPaginationPageNumberNormal } from "./MoleculesPaginationPageNumberNormal";

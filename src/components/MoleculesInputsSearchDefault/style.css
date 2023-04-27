@@ -1,0 +1,36 @@
+.MOLECULES-INPUTS-SEARCH-DEFAULT-div {
+  background-color: #ffffff;
+  height: 100%;
+  width: 100%;
+}
+
+.MOLECULES-INPUTS-SEARCH-DEFAULT-overlap-group {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #d8dada;
+  height: 32px;
+  position: relative;
+  width: 154px;
+}
+
+.MOLECULES-INPUTS-SEARCH-DEFAULT-text-wrapper {
+  color: #747676;
+  font-family: "Neue Haas Grotesk Display Std-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+}
+
+.MOLECULES-INPUTS-SEARCH-DEFAULT-rectangle {
+  height: 1px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 154px;
+}

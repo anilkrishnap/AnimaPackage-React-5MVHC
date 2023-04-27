@@ -1,0 +1,1 @@
+export { MoleculesTableRowDefaultNew } from "./MoleculesTableRowDefaultNew";

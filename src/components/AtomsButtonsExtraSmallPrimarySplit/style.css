@@ -1,0 +1,53 @@
+.ATOMS-BUTTONS-EXTRA-SMALL-PRIMARY-SPLIT-div {
+  background-color: #ffffff;
+  height: 100%;
+  width: 100%;
+}
+
+.ATOMS-BUTTONS-EXTRA-SMALL-PRIMARY-SPLIT-overlap-group {
+  height: 23px;
+  left: -1px;
+  position: relative;
+  top: -2px;
+  width: 73px;
+}
+
+.ATOMS-BUTTONS-EXTRA-SMALL-PRIMARY-SPLIT-background {
+  background-color: #000000;
+  border-radius: 22px;
+  height: 21px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 73px;
+}
+
+.ATOMS-BUTTONS-EXTRA-SMALL-PRIMARY-SPLIT-rectangle {
+  background-color: #ffffff;
+  height: 23px;
+  left: 53px;
+  position: absolute;
+  top: 0;
+  width: 3px;
+}
+
+.ATOMS-BUTTONS-EXTRA-SMALL-PRIMARY-SPLIT-ATOMS-ICON-ARROW-CHEVRON-DOWN-DEFAULT {
+  height: 6px;
+  left: 58px;
+  position: absolute;
+  top: 9px;
+  width: 10px;
+}
+
+.ATOMS-BUTTONS-EXTRA-SMALL-PRIMARY-SPLIT-lorem {
+  color: #ffffff;
+  font-family: "Neue Haas Grotesk Display Std-Regular", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+}

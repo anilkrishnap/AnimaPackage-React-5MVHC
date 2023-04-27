@@ -1,0 +1,14 @@
+.ATOMS-TAB-DEFAULT-div {
+  background-color: #ffffff;
+  height: 100%;
+  position: relative;
+  width: 100%;
+}
+
+.ATOMS-TAB-DEFAULT-ATOMS-ICON-close {
+  height: 7px;
+  left: 66px;
+  position: absolute;
+  top: 11px;
+  width: 7px;
+}

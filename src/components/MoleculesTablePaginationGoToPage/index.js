@@ -1,0 +1,1 @@
+export { MoleculesTablePaginationGoToPage } from "./MoleculesTablePaginationGoToPage";

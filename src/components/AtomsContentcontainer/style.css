@@ -1,0 +1,14 @@
+.ATOMS-CONTENTCONTAINER-div {
+  background-color: #ffffff;
+  height: 100%;
+  width: 100%;
+}
+
+.ATOMS-CONTENTCONTAINER-rectangle {
+  background-color: #ffffff;
+  height: 266px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 1006px;
+}

@@ -1,0 +1,19 @@
+.MOLECULES-PAGINATION-PAGE-NUMBER-NORMAL-div {
+  background-color: #ffffff;
+  height: 100%;
+  position: relative;
+  width: 100%;
+}
+
+.MOLECULES-PAGINATION-PAGE-NUMBER-NORMAL-page-number {
+  color: #747676;
+  font-family: "Neue Haas Grotesk Display Std-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 8px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+}

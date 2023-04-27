@@ -1,0 +1,1406 @@
+.manage-solutions-manage-solutions-wrapper {
+  background-color: #f7f9fb;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.manage-solutions-manage-solutions {
+  background-color: #f7f9fb;
+  border: 0px none;
+  height: 709px;
+  position: relative;
+  width: 1024px;
+}
+
+.manage-solutions-overlap {
+  height: 466px;
+  left: 6px;
+  position: absolute;
+  top: 231px;
+  width: 1012px;
+}
+
+.manage-solutions-group {
+  height: 466px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1012px;
+}
+
+.manage-solutions-overlap-group17 {
+  height: 466px;
+  position: relative;
+}
+
+.manage-solutions-rectangle {
+  background-color: #ffffff;
+  height: 466px;
+  left: 3px;
+  position: absolute;
+  top: 0;
+  width: 1004px;
+}
+
+.manage-solutions-group-8 {
+  height: 449px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 1012px;
+}
+
+.manage-solutions-overlap-group16 {
+  height: 45px;
+  left: 3px;
+  position: absolute;
+  top: 0;
+  width: 1007px;
+}
+
+.manage-solutions-MOLECULES-TABLE-ACTIONBAR {
+  background-color: #ffffff;
+  height: 42px;
+  left: 3px;
+  position: absolute;
+  top: 0;
+  width: 1004px;
+}
+
+.manage-solutions-MOLECULES-TABLE-ACTIONICONS {
+  height: 24px;
+  left: 10px;
+  position: absolute;
+  top: 9px;
+  width: 291px;
+}
+
+.manage-solutions-MOLECULES-TABLE-ACTIONICONTEXT {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 77px;
+}
+
+.manage-solutions-icon-plus {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.manage-solutions-edit {
+  color: #000000;
+  font-family: "Neue Haas Grotesk Display Std-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 34px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.manage-solutions-ATOMS-ICON-more-horizontal-copy {
+  height: 24px;
+  left: 267px;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.manage-solutions-div {
+  background-color: #ffffff;
+  height: 44px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 1004px;
+}
+
+.manage-solutions-text-wrapper {
+  color: #000000;
+  font-family: "Neue Haas Grotesk Display Std-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+  width: 61px;
+}
+
+.manage-solutions-rectangle-2 {
+  background-color: #ffffff;
+  height: 43px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 135px;
+}
+
+.manage-solutions-group-2 {
+  background-image: url(../../../static/img/shape-35.png);
+  background-size: 100% 100%;
+  height: 18px;
+  left: 927px;
+  position: absolute;
+  top: 13px;
+  width: 18px;
+}
+
+.manage-solutions-MOLECULES-FORM-SEARCH {
+  background-color: #ffffff;
+  height: 32px;
+  left: 698px;
+  position: absolute;
+  top: 6px;
+  width: 204px;
+}
+
+.manage-solutions-div-2 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #d8dada;
+  height: 32px;
+  position: relative;
+}
+
+.manage-solutions-search {
+  background-color: transparent;
+  border: 0;
+  color: #747676;
+  font-family: "Neue Haas Grotesk Display Std-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  height: 17px;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  padding: 0;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.manage-solutions-rectangle-7 {
+  height: 1px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 204px;
+}
+
+.manage-solutions-group-4 {
+  height: 32px;
+  left: 496px;
+  position: absolute;
+  top: 7px;
+  width: 182px;
+}
+
+.manage-solutions-overlap-group14 {
+  height: 40px;
+  left: 3px;
+  position: absolute;
+  top: 45px;
+  width: 1004px;
+}
+
+.manage-solutions-overlap-group15 {
+  height: 319px;
+  left: 0;
+  position: absolute;
+  top: 85px;
+  width: 1012px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy {
+  height: 29px;
+  left: 881px;
+  position: absolute;
+  top: 2px;
+  width: 33px;
+}
+
+.manage-solutions-cell-data {
+  color: #000000;
+  font-family: "Neue Haas Grotesk Display Std-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-11 {
+  height: 29px;
+  left: 90px;
+  position: absolute;
+  top: 1px;
+  width: 65px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-12 {
+  height: 29px;
+  left: 188px;
+  position: absolute;
+  top: 1px;
+  width: 93px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-135 {
+  height: 29px;
+  left: 419px;
+  position: absolute;
+  top: 1px;
+  width: 93px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-137 {
+  height: 29px;
+  left: 600px;
+  position: absolute;
+  top: 1px;
+  width: 93px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-138 {
+  height: 29px;
+  left: 706px;
+  position: absolute;
+  top: 1px;
+  width: 46px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-139 {
+  height: 29px;
+  left: 782px;
+  position: absolute;
+  top: 1px;
+  width: 48px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-136 {
+  height: 29px;
+  left: 525px;
+  position: absolute;
+  top: 1px;
+  width: 41px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-140 {
+  height: 29px;
+  left: 945px;
+  position: absolute;
+  top: 1px;
+  width: 67px;
+}
+
+.manage-solutions-ATOMS-ICON-CTA-caret-copy {
+  height: 24px;
+  left: 20px;
+  position: absolute;
+  top: 4px;
+  width: 24px;
+}
+
+.manage-solutions-ATOMS-ICON-2019-CTA-caret-copy-9 {
+  height: 24px;
+  left: 20px;
+  position: absolute;
+  top: 36px;
+  width: 24px;
+}
+
+.manage-solutions-ATOMS-ICON-2019-CTA-caret-copy-10 {
+  height: 24px;
+  left: 20px;
+  position: absolute;
+  top: 67px;
+  width: 24px;
+}
+
+.manage-solutions-ATOMS-ICON-2019-CTA-caret-copy-11 {
+  height: 24px;
+  left: 20px;
+  position: absolute;
+  top: 98px;
+  width: 24px;
+}
+
+.manage-solutions-ATOMS-ICON-2019-CTA-caret-copy-12 {
+  height: 24px;
+  left: 20px;
+  position: absolute;
+  top: 129px;
+  width: 24px;
+}
+
+.manage-solutions-ATOMS-ICON-2019-CTA-caret-copy-13 {
+  height: 24px;
+  left: 20px;
+  position: absolute;
+  top: 160px;
+  width: 24px;
+}
+
+.manage-solutions-cell-data-wrapper {
+  height: 29px;
+  left: 310px;
+  position: absolute;
+  top: 1px;
+  width: 56px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-176 {
+  height: 29px;
+  left: 881px;
+  position: absolute;
+  top: 34px;
+  width: 42px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-175 {
+  height: 29px;
+  left: 90px;
+  position: absolute;
+  top: 33px;
+  width: 68px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-174 {
+  height: 29px;
+  left: 188px;
+  position: absolute;
+  top: 33px;
+  width: 93px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-173 {
+  height: 29px;
+  left: 419px;
+  position: absolute;
+  top: 33px;
+  width: 93px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-172 {
+  height: 29px;
+  left: 600px;
+  position: absolute;
+  top: 33px;
+  width: 93px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-171 {
+  height: 29px;
+  left: 706px;
+  position: absolute;
+  top: 33px;
+  width: 46px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-166 {
+  height: 29px;
+  left: 782px;
+  position: absolute;
+  top: 33px;
+  width: 48px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-158 {
+  height: 29px;
+  left: 525px;
+  position: absolute;
+  top: 33px;
+  width: 41px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-150 {
+  height: 29px;
+  left: 945px;
+  position: absolute;
+  top: 33px;
+  width: 67px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-146 {
+  height: 29px;
+  left: 310px;
+  position: absolute;
+  top: 33px;
+  width: 55px;
+}
+
+.manage-solutions-MOLECULES-TABLE-HEADER-DEFAULT {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+  height: 20px;
+  left: 59px;
+  position: absolute;
+  top: 6px;
+  width: 20px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-186 {
+  height: 29px;
+  left: 881px;
+  position: absolute;
+  top: 66px;
+  width: 42px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-185 {
+  height: 29px;
+  left: 90px;
+  position: absolute;
+  top: 65px;
+  width: 68px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-184 {
+  height: 29px;
+  left: 188px;
+  position: absolute;
+  top: 65px;
+  width: 93px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-183 {
+  height: 29px;
+  left: 419px;
+  position: absolute;
+  top: 65px;
+  width: 93px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-182 {
+  height: 29px;
+  left: 600px;
+  position: absolute;
+  top: 65px;
+  width: 93px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-181 {
+  height: 29px;
+  left: 706px;
+  position: absolute;
+  top: 65px;
+  width: 46px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-180 {
+  height: 29px;
+  left: 782px;
+  position: absolute;
+  top: 65px;
+  width: 48px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-179 {
+  height: 29px;
+  left: 525px;
+  position: absolute;
+  top: 65px;
+  width: 41px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-178 {
+  height: 29px;
+  left: 945px;
+  position: absolute;
+  top: 65px;
+  width: 67px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-177 {
+  height: 29px;
+  left: 310px;
+  position: absolute;
+  top: 65px;
+  width: 56px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-196 {
+  height: 29px;
+  left: 881px;
+  position: absolute;
+  top: 97px;
+  width: 42px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-195 {
+  height: 29px;
+  left: 90px;
+  position: absolute;
+  top: 96px;
+  width: 68px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-194 {
+  height: 29px;
+  left: 188px;
+  position: absolute;
+  top: 96px;
+  width: 93px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-193 {
+  height: 29px;
+  left: 419px;
+  position: absolute;
+  top: 96px;
+  width: 93px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-192 {
+  height: 29px;
+  left: 600px;
+  position: absolute;
+  top: 96px;
+  width: 93px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-191 {
+  height: 29px;
+  left: 706px;
+  position: absolute;
+  top: 96px;
+  width: 46px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-190 {
+  height: 29px;
+  left: 782px;
+  position: absolute;
+  top: 96px;
+  width: 48px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-189 {
+  height: 29px;
+  left: 525px;
+  position: absolute;
+  top: 96px;
+  width: 41px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-188 {
+  height: 29px;
+  left: 945px;
+  position: absolute;
+  top: 96px;
+  width: 67px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-187 {
+  height: 29px;
+  left: 310px;
+  position: absolute;
+  top: 96px;
+  width: 56px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-206 {
+  height: 29px;
+  left: 881px;
+  position: absolute;
+  top: 128px;
+  width: 42px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-205 {
+  height: 29px;
+  left: 90px;
+  position: absolute;
+  top: 127px;
+  width: 68px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-204 {
+  height: 29px;
+  left: 188px;
+  position: absolute;
+  top: 127px;
+  width: 93px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-203 {
+  height: 29px;
+  left: 419px;
+  position: absolute;
+  top: 127px;
+  width: 93px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-202 {
+  height: 29px;
+  left: 600px;
+  position: absolute;
+  top: 127px;
+  width: 93px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-201 {
+  height: 29px;
+  left: 706px;
+  position: absolute;
+  top: 127px;
+  width: 46px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-200 {
+  height: 29px;
+  left: 782px;
+  position: absolute;
+  top: 127px;
+  width: 48px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-199 {
+  height: 29px;
+  left: 525px;
+  position: absolute;
+  top: 127px;
+  width: 41px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-198 {
+  height: 29px;
+  left: 945px;
+  position: absolute;
+  top: 127px;
+  width: 67px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-197 {
+  height: 29px;
+  left: 310px;
+  position: absolute;
+  top: 127px;
+  width: 56px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-216 {
+  height: 29px;
+  left: 881px;
+  position: absolute;
+  top: 159px;
+  width: 42px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-215 {
+  height: 29px;
+  left: 90px;
+  position: absolute;
+  top: 158px;
+  width: 67px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-214 {
+  height: 29px;
+  left: 188px;
+  position: absolute;
+  top: 158px;
+  width: 93px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-213 {
+  height: 29px;
+  left: 419px;
+  position: absolute;
+  top: 158px;
+  width: 93px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-212 {
+  height: 29px;
+  left: 600px;
+  position: absolute;
+  top: 158px;
+  width: 93px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-211 {
+  height: 29px;
+  left: 706px;
+  position: absolute;
+  top: 158px;
+  width: 46px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-210 {
+  height: 29px;
+  left: 782px;
+  position: absolute;
+  top: 158px;
+  width: 48px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-209 {
+  height: 29px;
+  left: 525px;
+  position: absolute;
+  top: 158px;
+  width: 41px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-208 {
+  height: 29px;
+  left: 945px;
+  position: absolute;
+  top: 158px;
+  width: 67px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-207 {
+  height: 29px;
+  left: 310px;
+  position: absolute;
+  top: 158px;
+  width: 53px;
+}
+
+.manage-solutions-img {
+  height: 24px;
+  left: 19px;
+  position: absolute;
+  top: 191px;
+  width: 24px;
+}
+
+.manage-solutions-ATOMS-ICON-CTA-caret-copy-2 {
+  height: 24px;
+  left: 19px;
+  position: absolute;
+  top: 222px;
+  width: 24px;
+}
+
+.manage-solutions-ATOMS-ICON-CTA-caret-copy-3 {
+  height: 24px;
+  left: 19px;
+  position: absolute;
+  top: 253px;
+  width: 24px;
+}
+
+.manage-solutions-div-wrapper {
+  height: 29px;
+  left: 880px;
+  position: absolute;
+  top: 189px;
+  width: 42px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-2 {
+  height: 29px;
+  left: 89px;
+  position: absolute;
+  top: 188px;
+  width: 68px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-3 {
+  height: 29px;
+  left: 187px;
+  position: absolute;
+  top: 188px;
+  width: 93px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-4 {
+  height: 29px;
+  left: 418px;
+  position: absolute;
+  top: 188px;
+  width: 93px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-5 {
+  height: 29px;
+  left: 599px;
+  position: absolute;
+  top: 188px;
+  width: 93px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-6 {
+  height: 29px;
+  left: 705px;
+  position: absolute;
+  top: 188px;
+  width: 46px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-7 {
+  height: 29px;
+  left: 781px;
+  position: absolute;
+  top: 188px;
+  width: 48px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-8 {
+  height: 29px;
+  left: 524px;
+  position: absolute;
+  top: 188px;
+  width: 41px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-9 {
+  height: 29px;
+  left: 944px;
+  position: absolute;
+  top: 188px;
+  width: 67px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-10 {
+  height: 29px;
+  left: 309px;
+  position: absolute;
+  top: 188px;
+  width: 56px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-13 {
+  height: 29px;
+  left: 880px;
+  position: absolute;
+  top: 221px;
+  width: 42px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-14 {
+  height: 29px;
+  left: 89px;
+  position: absolute;
+  top: 220px;
+  width: 68px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-15 {
+  height: 29px;
+  left: 187px;
+  position: absolute;
+  top: 220px;
+  width: 93px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-16 {
+  height: 29px;
+  left: 418px;
+  position: absolute;
+  top: 220px;
+  width: 93px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-17 {
+  height: 29px;
+  left: 599px;
+  position: absolute;
+  top: 220px;
+  width: 93px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-18 {
+  height: 29px;
+  left: 705px;
+  position: absolute;
+  top: 220px;
+  width: 46px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-19 {
+  height: 29px;
+  left: 781px;
+  position: absolute;
+  top: 220px;
+  width: 48px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-20 {
+  height: 29px;
+  left: 524px;
+  position: absolute;
+  top: 220px;
+  width: 41px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-21 {
+  height: 29px;
+  left: 944px;
+  position: absolute;
+  top: 220px;
+  width: 67px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-22 {
+  height: 29px;
+  left: 309px;
+  position: absolute;
+  top: 220px;
+  width: 56px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-23 {
+  height: 29px;
+  left: 880px;
+  position: absolute;
+  top: 252px;
+  width: 42px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-24 {
+  height: 29px;
+  left: 89px;
+  position: absolute;
+  top: 251px;
+  width: 70px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-25 {
+  height: 29px;
+  left: 187px;
+  position: absolute;
+  top: 251px;
+  width: 93px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-26 {
+  height: 29px;
+  left: 418px;
+  position: absolute;
+  top: 251px;
+  width: 93px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-27 {
+  height: 29px;
+  left: 599px;
+  position: absolute;
+  top: 251px;
+  width: 93px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-28 {
+  height: 29px;
+  left: 705px;
+  position: absolute;
+  top: 251px;
+  width: 46px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-29 {
+  height: 29px;
+  left: 781px;
+  position: absolute;
+  top: 251px;
+  width: 48px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-30 {
+  height: 29px;
+  left: 524px;
+  position: absolute;
+  top: 251px;
+  width: 41px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-31 {
+  height: 29px;
+  left: 944px;
+  position: absolute;
+  top: 251px;
+  width: 67px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-32 {
+  height: 29px;
+  left: 309px;
+  position: absolute;
+  top: 251px;
+  width: 56px;
+}
+
+.manage-solutions-ATOMS-ICON-CTA-caret-copy-4 {
+  height: 24px;
+  left: 17px;
+  position: absolute;
+  top: 284px;
+  width: 24px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-33 {
+  height: 29px;
+  left: 878px;
+  position: absolute;
+  top: 283px;
+  width: 42px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-34 {
+  height: 29px;
+  left: 87px;
+  position: absolute;
+  top: 282px;
+  width: 66px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-35 {
+  height: 29px;
+  left: 185px;
+  position: absolute;
+  top: 282px;
+  width: 93px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-36 {
+  height: 29px;
+  left: 416px;
+  position: absolute;
+  top: 282px;
+  width: 93px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-37 {
+  height: 29px;
+  left: 597px;
+  position: absolute;
+  top: 282px;
+  width: 93px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-38 {
+  height: 29px;
+  left: 703px;
+  position: absolute;
+  top: 282px;
+  width: 46px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-39 {
+  height: 29px;
+  left: 779px;
+  position: absolute;
+  top: 282px;
+  width: 48px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-40 {
+  height: 29px;
+  left: 522px;
+  position: absolute;
+  top: 282px;
+  width: 41px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-41 {
+  height: 29px;
+  left: 942px;
+  position: absolute;
+  top: 282px;
+  width: 67px;
+}
+
+.manage-solutions-MOLECULES-TABLE-BODY-CELL-DATA-copy-42 {
+  height: 29px;
+  left: 307px;
+  position: absolute;
+  top: 282px;
+  width: 56px;
+}
+
+.manage-solutions-group-16 {
+  height: 18px;
+  left: 22px;
+  position: absolute;
+  top: 17px;
+  width: 139px;
+}
+
+.manage-solutions-img-2 {
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.manage-solutions-text-wrapper-2 {
+  color: #000000;
+  font-family: "Neue Haas Grotesk Display Std-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 28px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.manage-solutions-group-3 {
+  height: 18px;
+  left: 178px;
+  position: absolute;
+  top: 17px;
+  width: 157px;
+}
+
+.manage-solutions-group-18 {
+  height: 17px;
+  left: 27px;
+  position: absolute;
+  top: 1px;
+  width: 130px;
+}
+
+.manage-solutions-text-wrapper-3 {
+  color: #000000;
+  font-family: "Neue Haas Grotesk Display Std-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.manage-solutions-element {
+  background-image: url(../../../static/img/shape-102.png);
+  background-size: 100% 100%;
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.manage-solutions-overlap-group21 {
+  height: 80px;
+  left: 10px;
+  position: absolute;
+  top: 151px;
+  width: 1004px;
+}
+
+.manage-solutions-secondary-tab {
+  height: 41px;
+  left: 0;
+  position: absolute;
+  top: 39px;
+  width: 1004px;
+}
+
+.manage-solutions-overlap-2 {
+  height: 41px;
+  position: relative;
+}
+
+.manage-solutions-ATOMS-DIVIDERS-LINE-BLACK {
+  background-color: #d8dada;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 40px;
+  width: 1004px;
+}
+
+.manage-solutions-overlap-group20 {
+  height: 40px;
+  left: 10px;
+  position: absolute;
+  top: 100px;
+  width: 1004px;
+}
+
+.manage-solutions-div-3 {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1004px;
+}
+
+.manage-solutions-group-copy {
+  cursor: pointer;
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1004px;
+}
+
+.manage-solutions-ORGANISMS-GLOBALHEADER-TAB-BAR {
+  background-color: #ffffff;
+  height: 89px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1024px;
+}
+
+.manage-solutions-overlap-3 {
+  height: 89px;
+  position: relative;
+}
+
+.manage-solutions-ORGANISMS-GLOBALHEADER-DEFAULT {
+  background-color: #ffffff;
+  height: 60px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 1024px;
+}
+
+.manage-solutions-overlap-group2 {
+  background-color: #ffffff;
+  height: 62px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 1026px;
+}
+
+.manage-solutions-overlap-group-wrapper {
+  background-color: #ffffff;
+  height: 32px;
+  left: 606px;
+  position: absolute;
+  top: 15px;
+  width: 223px;
+}
+
+.manage-solutions-rectangle-3 {
+  height: 1px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 223px;
+}
+
+.manage-solutions-ATOMS-AVATAR-DEFAULT {
+  background-image: url(../../../static/img/combined-shape.png);
+  background-size: 100% 100%;
+  height: 24px;
+  left: 981px;
+  position: absolute;
+  top: 19px;
+  width: 24px;
+}
+
+.manage-solutions-canvaslogo-final {
+  height: 32px;
+  left: 65px;
+  position: absolute;
+  top: 11px;
+  width: 148px;
+}
+
+.manage-solutions-overlap-group1 {
+  height: 32px;
+  position: relative;
+}
+
+.manage-solutions-img-3 {
+  height: 21px;
+  left: 130px;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.manage-solutions-group-5 {
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 10px;
+  width: 130px;
+}
+
+.manage-solutions-path {
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 21px;
+}
+
+.manage-solutions-shape {
+  height: 22px;
+  left: 23px;
+  position: absolute;
+  top: 0;
+  width: 21px;
+}
+
+.manage-solutions-path-2 {
+  height: 21px;
+  left: 46px;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+
+.manage-solutions-overlap-group {
+  height: 22px;
+  left: 67px;
+  position: absolute;
+  top: 0;
+  width: 42px;
+}
+
+.manage-solutions-path-3 {
+  height: 21px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 22px;
+}
+
+.manage-solutions-shape-2 {
+  height: 22px;
+  left: 21px;
+  position: absolute;
+  top: 0;
+  width: 21px;
+}
+
+.manage-solutions-path-4 {
+  height: 22px;
+  left: 110px;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+
+.manage-solutions-download {
+  height: 28px;
+  left: 937px;
+  position: absolute;
+  top: 15px;
+  width: 24px;
+}

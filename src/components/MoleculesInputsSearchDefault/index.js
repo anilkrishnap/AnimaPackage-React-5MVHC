@@ -1,0 +1,1 @@
+export { MoleculesInputsSearchDefault } from "./MoleculesInputsSearchDefault";

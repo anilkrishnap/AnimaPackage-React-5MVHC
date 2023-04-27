@@ -1,0 +1,11 @@
+.MOLECULES-FORM-COLLAPSIBLE-LEVEL-1-div {
+  background-color: #ffffff;
+  height: 100%;
+  width: 100%;
+}
+
+.MOLECULES-FORM-COLLAPSIBLE-LEVEL-1-overlap-group {
+  height: 40px;
+  position: relative;
+  width: 1004px;
+}

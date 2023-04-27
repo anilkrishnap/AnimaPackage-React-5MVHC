@@ -1,0 +1,11 @@
+.MOLECULES-TABLE-ROW-STATE-SELECTED-div {
+  background-color: #ffffff;
+  height: 100%;
+  width: 100%;
+}
+
+.MOLECULES-TABLE-ROW-STATE-SELECTED-rectangle {
+  background-color: #0089cf54;
+  height: 31px;
+  width: 1004px;
+}

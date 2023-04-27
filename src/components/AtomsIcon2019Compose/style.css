@@ -1,0 +1,34 @@
+.ATOMS-ICON-2019-compose-div {
+  height: 100%;
+  width: 100%;
+}
+
+.ATOMS-ICON-2019-compose-group {
+  height: 24px;
+  width: 24px;
+}
+
+.ATOMS-ICON-2019-compose-ebene {
+  height: 24px;
+}
+
+.ATOMS-ICON-2019-compose-overlap-group {
+  height: 24px;
+  position: relative;
+}
+
+.ATOMS-ICON-2019-compose-path {
+  height: 19px;
+  left: 0;
+  position: absolute;
+  top: 5px;
+  width: 19px;
+}
+
+.ATOMS-ICON-2019-compose-shape {
+  height: 16px;
+  left: 8px;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}

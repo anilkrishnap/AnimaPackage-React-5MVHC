@@ -1,0 +1,56 @@
+.MOLECULES-TABLE-PAGINATION-GO-TO-PAGE-div {
+  height: 100%;
+  position: relative;
+  width: 100%;
+}
+
+.MOLECULES-TABLE-PAGINATION-GO-TO-PAGE-element {
+  color: #000000;
+  font-family: "Neue Haas Grotesk Display Std-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 125px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 10px;
+}
+
+.MOLECULES-TABLE-PAGINATION-GO-TO-PAGE-MOLECULES-INPUTS-STANDARD-COMPLETE {
+  background-color: #ffffff;
+  height: 32px;
+  left: 77px;
+  position: absolute;
+  top: 2px;
+  width: 39px;
+}
+
+.MOLECULES-TABLE-PAGINATION-GO-TO-PAGE-div-2 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #d8dada;
+  height: 32px;
+  position: relative;
+}
+
+.MOLECULES-TABLE-PAGINATION-GO-TO-PAGE-text-wrapper {
+  color: #000000;
+  font-family: "Neue Haas Grotesk Display Std-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+}
+
+.MOLECULES-TABLE-PAGINATION-GO-TO-PAGE-rectangle {
+  height: 1px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 39px;
+}

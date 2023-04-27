@@ -1,0 +1,31 @@
+.ORGANISMS-TAB-BAR-div {
+  background-color: #ffffff;
+  height: 100%;
+  width: 100%;
+}
+
+.ORGANISMS-TAB-BAR-div-2 {
+  background-color: #ffffff;
+  height: 41px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 1026px;
+}
+
+.ORGANISMS-TAB-BAR-overlap {
+  height: 24px;
+  left: 11px;
+  position: absolute;
+  top: 6px;
+  width: 1004px;
+}
+
+.ORGANISMS-TAB-BAR-ATOMS-DIVIDERS-LINE-GRAY {
+  background-color: #d8dada;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 23px;
+  width: 1004px;
+}

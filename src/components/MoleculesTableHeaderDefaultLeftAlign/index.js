@@ -1,0 +1,1 @@
+export { MoleculesTableHeaderDefaultLeftAlign } from "./MoleculesTableHeaderDefaultLeftAlign";

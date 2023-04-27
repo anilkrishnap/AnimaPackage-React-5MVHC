@@ -1,0 +1,65 @@
+.button-component-button-component {
+  align-items: center;
+  background-color: #ffffff;
+  border: 1px none;
+  display: flex;
+  height: 111px;
+  justify-content: space-between;
+  min-width: 328px;
+  padding: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.button-component-vz-button {
+  align-items: flex-start;
+  background-color: #efefef;
+  border: 1px solid;
+  border-color: #767676;
+  border-radius: 2.5px;
+  display: flex;
+  padding: 5.5px 8.98px 5.5px 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.button-component-text-wrapper {
+  color: #000000d9;
+  font-family: "Roboto-Italic", Helvetica;
+  font-size: 14px;
+  font-style: italic;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 16.5px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.button-component-div-wrapper {
+  align-items: center;
+  background-color: #ff8589;
+  border: 0px solid;
+  border-color: #767676;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  padding: 5.5px 8.98px 5.5px 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.button-component-div {
+  color: #ffffff;
+  font-family: "Roboto-Medium", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 16.5px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}

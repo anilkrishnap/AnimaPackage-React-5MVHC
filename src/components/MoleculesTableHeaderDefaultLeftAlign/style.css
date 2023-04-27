@@ -1,0 +1,19 @@
+.MOLECULES-TABLE-HEADER-DEFAULT-LEFT-ALIGN-div {
+  background-color: #ffffff;
+  height: 100%;
+  position: relative;
+  width: 100%;
+}
+
+.MOLECULES-TABLE-HEADER-DEFAULT-LEFT-ALIGN-column {
+  color: #000000;
+  font-family: "Neue Haas Grotesk Display Std-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 2px;
+  white-space: nowrap;
+}

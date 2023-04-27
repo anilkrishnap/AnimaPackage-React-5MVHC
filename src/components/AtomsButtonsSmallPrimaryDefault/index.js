@@ -1,0 +1,1 @@
+export { AtomsButtonsSmallPrimaryDefault } from "./AtomsButtonsSmallPrimaryDefault";

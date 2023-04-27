@@ -1,0 +1,32 @@
+.MOLECULES-TABLE-ACTIONBAR-SETTINGS-CONTAINER-TEMPLATE-SELECTED-div {
+  background-color: #ffffff;
+  height: 100%;
+  position: relative;
+  width: 100%;
+}
+
+.MOLECULES-TABLE-ACTIONBAR-SETTINGS-CONTAINER-TEMPLATE-SELECTED-group {
+  background-image: url(../../../static/img/shape-30.png);
+  background-size: 100% 100%;
+  height: 18px;
+  left: 513px;
+  position: absolute;
+  top: 12px;
+  width: 18px;
+}
+
+.MOLECULES-TABLE-ACTIONBAR-SETTINGS-CONTAINER-TEMPLATE-SELECTED-group-2 {
+  height: 32px;
+  left: 109px;
+  position: absolute;
+  top: 5px;
+  width: 220px;
+}
+
+.MOLECULES-TABLE-ACTIONBAR-SETTINGS-CONTAINER-TEMPLATE-SELECTED-group-3 {
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 182px;
+}

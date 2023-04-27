@@ -1,0 +1,59 @@
+.MOLECULES-PAGINATION-PREV-NORMAL-div {
+  background-color: #ffffff;
+  height: 100%;
+  width: 100%;
+}
+
+.MOLECULES-PAGINATION-PREV-NORMAL-overlap-group-wrapper {
+  height: 22px;
+  width: 52px;
+}
+
+.MOLECULES-PAGINATION-PREV-NORMAL-overlap-group {
+  background-color: #ffffff;
+  height: 24px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 54px;
+}
+
+.MOLECULES-PAGINATION-PREV-NORMAL-overlap {
+  height: 11px;
+  left: 2px;
+  position: absolute;
+  top: 7px;
+  width: 11px;
+}
+
+.MOLECULES-PAGINATION-PREV-NORMAL-img {
+  height: 11px;
+  left: 5px;
+  position: absolute;
+  top: 0;
+  width: 6px;
+}
+
+.MOLECULES-PAGINATION-PREV-NORMAL-img-2 {
+  height: 11px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 6px;
+}
+
+.MOLECULES-PAGINATION-PREV-NORMAL-left-caret-copy {
+  height: 11px;
+  left: 37px;
+  position: absolute;
+  top: 7px;
+  width: 6px;
+}
+
+.MOLECULES-PAGINATION-PREV-NORMAL-line {
+  height: 14px;
+  left: 25px;
+  position: absolute;
+  top: 6px;
+  width: 1px;
+}

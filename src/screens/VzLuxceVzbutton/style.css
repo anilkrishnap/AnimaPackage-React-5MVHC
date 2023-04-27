@@ -1,0 +1,93 @@
+.vz-LUXCE-vzbutton-vz-LUXCE-vzbutton {
+  align-items: flex-start;
+  background-color: #272727;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  min-width: 276.98px;
+  padding: 20px;
+  position: relative;
+}
+
+.vz-LUXCE-vzbutton-header {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: auto;
+  position: relative;
+}
+
+.vz-LUXCE-vzbutton-title {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 10px;
+  overflow: hidden;
+  position: relative;
+}
+
+.vz-LUXCE-vzbutton-text-wrapper {
+  color: #ffffff;
+  font-family: "Inter-Italic", Helvetica;
+  font-size: 24px;
+  font-style: italic;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.vz-LUXCE-vzbutton-div {
+  color: #ffffff;
+  cursor: pointer;
+  font-family: "Inter-Italic", Helvetica;
+  font-size: 8px;
+  font-style: italic;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.vz-LUXCE-vzbutton-frame {
+  height: 88px;
+  min-width: 236.98px;
+  position: relative;
+}
+
+.vz-LUXCE-vzbutton-vz-button {
+  height: 88px;
+  left: 120px;
+  position: absolute;
+  top: 0;
+  width: 117px;
+}
+
+.vz-LUXCE-vzbutton-y-axis-legend {
+  height: 88px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 120px;
+}
+
+.vz-LUXCE-vzbutton-text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Inter-Light", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 36px;
+}

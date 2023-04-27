@@ -1,0 +1,90 @@
+.react-prime-calendar-react-prime-calendar {
+  align-items: flex-start;
+  background-color: #272727;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  min-width: 382px;
+  padding: 20px;
+  position: relative;
+}
+
+.react-prime-calendar-header {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: auto;
+  position: relative;
+}
+
+.react-prime-calendar-title {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 10px;
+  position: relative;
+}
+
+.react-prime-calendar-text-wrapper {
+  color: #ffffff;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.react-prime-calendar-div {
+  color: #ffffff;
+  cursor: pointer;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 8px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.react-prime-calendar-frame {
+  height: 88px;
+  min-width: 342px;
+  position: relative;
+}
+
+.react-prime-calendar-calendar {
+  height: 88px;
+  left: 120px;
+  position: absolute;
+  top: 0;
+  width: 222px;
+}
+
+.react-prime-calendar-y-axis-legend {
+  height: 88px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 120px;
+}
+
+.react-prime-calendar-text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Inter-Light", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 36px;
+}

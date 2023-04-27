@@ -1,0 +1,1 @@
+export { OrganismsTabBar } from "./OrganismsTabBar";

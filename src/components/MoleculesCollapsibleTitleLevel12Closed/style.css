@@ -1,0 +1,26 @@
+.MOLECULES-COLLAPSIBLE-TITLE-LEVEL-1-2-CLOSED-div {
+  height: 100%;
+  position: relative;
+  width: 100%;
+}
+
+.MOLECULES-COLLAPSIBLE-TITLE-LEVEL-1-2-CLOSED-placeholder-text {
+  color: #000000;
+  font-family: "Neue Haas Grotesk Display Std-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 31px;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.MOLECULES-COLLAPSIBLE-TITLE-LEVEL-1-2-CLOSED-ATOMS-ICON-CTA-caret-copy {
+  height: 20px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 20px;
+}

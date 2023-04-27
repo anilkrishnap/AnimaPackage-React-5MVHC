@@ -1,0 +1,14 @@
+.ATOMS-STATUS-GREEN-div {
+  background-color: #ffffff;
+  height: 100%;
+  width: 100%;
+}
+
+.ATOMS-STATUS-GREEN-rectangle {
+  background-color: #008330;
+  height: 16px;
+  left: 11px;
+  position: relative;
+  top: 7px;
+  width: 8px;
+}

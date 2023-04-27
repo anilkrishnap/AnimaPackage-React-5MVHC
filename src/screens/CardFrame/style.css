@@ -1,0 +1,453 @@
+.card-frame-card-frame {
+  align-items: flex-start;
+  background-color: #ffffff;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  min-width: 472px;
+  padding: 31px 29px;
+  position: relative;
+}
+
+.card-frame-chart-card {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 233px;
+  padding: 1px 0px;
+  position: relative;
+  width: 414px;
+}
+
+.card-frame-partial-percentage {
+  align-items: center;
+  align-self: stretch;
+  background-color: #ffffff;
+  border-radius: 32px;
+  box-shadow: 8px 8px 20px 30px #0000001a;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  justify-content: center;
+  margin-bottom: -1px;
+  padding: 16px;
+  position: relative;
+}
+
+.card-frame-card-title {
+  align-items: flex-start;
+  align-self: stretch;
+  box-shadow: 0px 0px 10px #0000001a;
+  display: flex;
+  gap: 10px;
+  position: relative;
+}
+
+.card-frame-title-area {
+  flex: 1;
+  height: 24px;
+  min-width: 382px;
+  position: relative;
+}
+
+.card-frame-overlap-group {
+  height: 25px;
+  position: relative;
+  top: -1px;
+  width: 382px;
+}
+
+.card-frame-title {
+  color: #000000;
+  font-family: "Neue Haas Grotesk Display Std-65Medium", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 374px;
+}
+
+.card-frame-more-link {
+  height: 24px;
+  left: 358px;
+  position: absolute;
+  top: 1px;
+  width: 24px;
+}
+
+.card-frame-card-content {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+}
+
+.card-frame-div-wrapper {
+  height: 112px;
+  min-width: 112px;
+  position: relative;
+}
+
+.card-frame-overlap {
+  height: 112px;
+  position: relative;
+  width: 112px;
+}
+
+.card-frame-group {
+  height: 112px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 112px;
+}
+
+.card-frame-chart {
+  background-image: url(../../../static/img/ellipse-5.svg);
+  background-size: 100% 100%;
+  height: 112px;
+}
+
+.card-frame-div {
+  background-image: url(../../../static/img/ellipse-6.svg);
+  background-size: 100% 100%;
+  height: 56px;
+  left: 56px;
+  position: relative;
+  width: 56px;
+}
+
+.card-frame-ellipse {
+  height: 45px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 53px;
+}
+
+.card-frame-ellipse-3 {
+  height: 27px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 33px;
+}
+
+.card-frame-donut-chart-percent {
+  align-items: flex-end;
+  display: flex;
+  left: 34px;
+  position: absolute;
+  top: 44px;
+  width: fit-content;
+}
+
+.card-frame-sales-by-department {
+  color: #000000;
+  font-family: "Neue Haas Grotesk Display Std-75Bold", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.card-frame-text-wrapper {
+  color: #000000;
+  font-family: "Neue Haas Grotesk Display Std-75Bold", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.card-frame-legend {
+  align-self: stretch;
+  height: 32px;
+  min-width: 382px;
+  position: relative;
+}
+
+.card-frame-donut-chart-legend-partial-percentage {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 133px;
+}
+
+.card-frame-donut-chart-legend-item {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  position: relative;
+  width: 114px;
+}
+
+.card-frame-rectangle {
+  background-color: #d52b1e;
+  height: 10px;
+  min-width: 10px;
+  position: relative;
+}
+
+.card-frame-placeholder-text {
+  color: #000000;
+  flex: 1;
+  font-family: "Neue Haas Grotesk Display Std-65Medium", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+}
+
+.card-frame-rectangle-42 {
+  background-color: #e3736b;
+  height: 10px;
+  min-width: 10px;
+  position: relative;
+}
+
+.card-frame-donut-chart-legend-item-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  left: 249px;
+  position: absolute;
+  top: 0;
+  width: 133px;
+}
+
+.card-frame-article {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 233px;
+  position: relative;
+  width: 414px;
+}
+
+.card-frame-full-percentage {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: #ffffff;
+  border-radius: 32px;
+  box-shadow: 0px 0px 20px 30px #0000001a;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 8px;
+  padding: 16px;
+  position: relative;
+}
+
+.card-frame-card-content-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+}
+
+.card-frame-frame {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 16px;
+  position: relative;
+}
+
+.card-frame-donut-chart-full-percentage {
+  height: 112px;
+  width: 112px;
+}
+
+.card-frame-donut-chart {
+  height: 112px;
+}
+
+.card-frame-overlap-group-wrapper {
+  background-image: url(../../../static/img/ellipse-4.svg);
+  background-size: 100% 100%;
+  height: 112px;
+  width: 112px;
+}
+
+.card-frame-overlap-group-2 {
+  background-image: url(../../../static/img/ellipse-5-1.svg);
+  background-size: 100% 100%;
+  height: 112px;
+  position: relative;
+}
+
+.card-frame-ellipse-6 {
+  height: 112px;
+  left: 56px;
+  position: absolute;
+  top: 0;
+  width: 56px;
+}
+
+.card-frame-ellipse-7 {
+  height: 101px;
+  left: 56px;
+  position: absolute;
+  top: 0;
+  width: 56px;
+}
+
+.card-frame-img {
+  height: 73px;
+  left: 56px;
+  position: absolute;
+  top: 0;
+  width: 56px;
+}
+
+.card-frame-donut-chart-legends-full-percentage-wrapper {
+  height: 74px;
+  min-width: 254px;
+  position: relative;
+}
+
+.card-frame-donut-chart-legends-full-percentage {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  position: relative;
+  width: 254px;
+}
+
+.card-frame-donut-chart-legend-item-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 8px;
+  position: relative;
+}
+
+.card-frame-rectangle-2 {
+  background-color: #0077b4;
+  height: 10px;
+  min-width: 10px;
+  position: relative;
+}
+
+.card-frame-rectangle-3 {
+  background-color: #008330;
+  height: 10px;
+  min-width: 10px;
+  position: relative;
+}
+
+.card-frame-rectangle-4 {
+  background-color: #ed7000;
+  height: 10px;
+  min-width: 10px;
+  position: relative;
+}
+
+.card-frame-rectangle-5 {
+  background-color: #ffbc3d;
+  height: 10px;
+  min-width: 10px;
+  position: relative;
+}
+
+.card-frame-bar-graph-percentage {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: #ffffff;
+  border-radius: 32px;
+  box-shadow: 8px 8px 20px 30px #0000001a;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 16px;
+  padding: 16px;
+  position: relative;
+}
+
+.card-frame-bar-graphs {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+  position: relative;
+}
+
+.card-frame-bar-graph-links {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+}
+
+.card-frame-bar-graph-source {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+}
+
+.card-frame-element {
+  color: #000000;
+  font-family: "Neue Haas Grotesk Display Std-65Medium", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.card-frame-group-52 {
+  align-self: stretch;
+  background-color: #3333330a;
+  height: 16px;
+  min-width: 183px;
+  position: relative;
+}
+
+.card-frame-rectangle-58 {
+  background-color: #ed7000;
+  height: 16px;
+  width: 46px;
+}
+
+.card-frame-legend-2 {
+  height: 44px;
+  min-width: 254px;
+  position: relative;
+}

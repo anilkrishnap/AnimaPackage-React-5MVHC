@@ -1,0 +1,1 @@
+export { MoleculesTabSecondarySelected } from "./MoleculesTabSecondarySelected";

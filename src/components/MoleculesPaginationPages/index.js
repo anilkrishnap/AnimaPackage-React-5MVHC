@@ -1,0 +1,1 @@
+export { MoleculesPaginationPages } from "./MoleculesPaginationPages";

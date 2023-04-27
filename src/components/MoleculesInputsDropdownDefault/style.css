@@ -1,0 +1,49 @@
+.MOLECULES-INPUTS-DROPDOWN-DEFAULT-div {
+  background-color: #ffffff;
+  height: 100%;
+  width: 100%;
+}
+
+.MOLECULES-INPUTS-DROPDOWN-DEFAULT-overlap-group {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #d8dada;
+  height: 32px;
+  position: relative;
+  width: 154px;
+}
+
+.MOLECULES-INPUTS-DROPDOWN-DEFAULT-rectangle {
+  height: 1px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 154px;
+}
+
+.MOLECULES-INPUTS-DROPDOWN-DEFAULT-text-wrapper {
+  color: #747676;
+  font-family: "Neue Haas Grotesk Display Std-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: -webkit-fill-available;
+  -webkit-appearance: none;
+  text-indent: 10px;
+  white-space: nowrap;
+}
+
+.MOLECULES-INPUTS-DROPDOWN-DEFAULT-ATOMS-ICON-ARROW-CHEVRON-DOWN-DEFAULT {
+  height: 9px;
+  left: 134px;
+  position: absolute;
+  top: 11px;
+  width: 9px;
+}

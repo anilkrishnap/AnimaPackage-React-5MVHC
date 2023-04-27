@@ -1,0 +1,1 @@
+export { AtomsTabDefault } from "./AtomsTabDefault";

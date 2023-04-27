@@ -1,0 +1,11 @@
+.ATOMS-DIVIDERS-LINE-4px-BLACK-div {
+  background-color: #ffffff;
+  height: 100%;
+  width: 100%;
+}
+
+.ATOMS-DIVIDERS-LINE-4px-BLACK-rectangle {
+  background-color: #000000;
+  height: 4px;
+  width: 1004px;
+}

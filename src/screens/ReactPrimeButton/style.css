@@ -1,0 +1,92 @@
+.react-prime-button-react-prime-button {
+  align-items: flex-start;
+  background-color: #272727;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  min-width: 340px;
+  padding: 20px;
+  position: relative;
+}
+
+.react-prime-button-header {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: auto;
+  position: relative;
+}
+
+.react-prime-button-title {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 10px;
+  position: relative;
+}
+
+.react-prime-button-text-wrapper {
+  color: #ffffff;
+  font-family: "Inter-Italic", Helvetica;
+  font-size: 24px;
+  font-style: italic;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.react-prime-button-div {
+  color: #ffffff;
+  cursor: pointer;
+  font-family: "Inter-Italic", Helvetica;
+  font-size: 8px;
+  font-style: italic;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.react-prime-button-frame {
+  height: 88px;
+  min-width: 300px;
+  position: relative;
+}
+
+.react-prime-button-button {
+  height: 88px;
+  left: 120px;
+  position: absolute;
+  top: 0;
+  width: 180px;
+}
+
+.react-prime-button-y-axis-legend {
+  height: 88px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 120px;
+}
+
+.react-prime-button-text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Inter-Light", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 36px;
+}
